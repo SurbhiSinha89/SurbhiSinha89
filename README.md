@@ -1,4 +1,3 @@
-<!-- Banner & Intro -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20,100:100&height=120&section=header&text=Hi👋🏻+I%27m+Surbhi+Sinha&fontAlignY=38&fontSize=40" alt="banner"/>
 </p>
@@ -12,15 +11,14 @@ I’m **Surbhi Sinha**, a Frontend Developer & CS Engineer specializing in **HTM
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin) or [Email](mailto:your.email@example.com)
 
 ---
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
-### 🛠️ Tech Stack
-| Frontend | Styling | Tools & Platform |
-|--------|--------|-----------------|
-| HTML5 | CSS3 / Sass | VS Code |
-| JavaScript (ES6+) | Styled-Components / Tailwind CSS | Git & GitHub |
-| React / Vue / Svelte | Bootstrap / Material UI | Figma |
-
----
 
 ### 📈 GitHub Stats
 
@@ -29,17 +27,9 @@ I’m **Surbhi Sinha**, a Frontend Developer & CS Engineer specializing in **HTM
 
 ---
 
-### 📌 Featured Projects
-- **[Project One](#)** – Responsive portfolio built with React & CSS Grid.
-- **[Project Two](#)** – JavaScript web app demonstrating dynamic UI behavior.
-- **[Project Three](#)** – Interactive feature built using Vue/Svelte.
-
----
-
 ### 📫 Connect with Me
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square" /></a>
+linkdin:www.linkedin.com/in/surbhi-sinha-889b30369
+Email: surbhisinha2006@gmail.com
 
----
 
 *“Simplicity is the ultimate sophistication.”* – Leonardo da Vinci
